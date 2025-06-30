@@ -1,0 +1,23 @@
+Step 1:
+    Types of injury:
+        1. cuts
+        2. bruises
+        3. bites (animals)
+        4. rashes
+        5. burns
+    Modile App
+
+step 2:
+    Create Dataset: (find images for OpenCV and training mmodels)
+        1. MedPix
+        2. DermNet
+        3. Google Images
+
+    Preprocess Images:
+        1. make it readable for model 
+        2. use opencv for preprocessing
+
+Step 3:
+    Traing ML Model:
+        1. Identify which model to use
+    
