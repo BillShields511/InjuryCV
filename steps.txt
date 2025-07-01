@@ -21,3 +21,10 @@ Step 3:
     Traing ML Model:
         1. Identify which model to use
     
+
+Preprocessing data:
+    3.2 Data Processing for steps
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC7821214/#jfo14578-sec-0003
+
+    Using opencv to identify body parts:
+    https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/README.md
